@@ -1,2 +1,2 @@
 # medic_query-
-It is a system simple for register the medic consulting
+It is a system simple for register the medic consulting ---
