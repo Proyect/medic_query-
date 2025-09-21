@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv
+.venv/
+venv/
+ENV/
+
+# Git
+.git/
+.gitignore
+
+# Local env files (do not pass to image)
+.env
+
+# Django collected static and media (mounted as volumes instead)
+staticfiles/
+media/
+
+# IDE/OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
